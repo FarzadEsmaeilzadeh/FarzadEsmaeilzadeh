@@ -60,5 +60,6 @@ Coming soon! I'm working on practical data analytics projects.
 
 ## 📫 Connect With Me
 
-- GitHub: [My GitHub Profile](https://github.com/FarzadEsmaeilzadeh)
+- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/farzad-esmaeilzadeh-18b2bb288)
+- 💻 GitHub: [My GitHub Profile](https://github.com/FarzadEsmaeilzadeh)
 
