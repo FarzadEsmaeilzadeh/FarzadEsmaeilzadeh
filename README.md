@@ -1,16 +1,64 @@
-## Hi there 👋
 
-<!--
-**FarzadEsmaeilzadeh/FarzadEsmaeilzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Farzad 👋
 
-Here are some ideas to get you started:
+### Data Analyst | BI Developer | Aspiring Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about working with data, solving analytical problems, and turning raw data into meaningful insights.
+
+Currently working in Data Analytics and Business Intelligence, while continuously improving my programming and analytical skills.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Data Analytics & BI
+- SQL
+- Power BI
+- Data Visualization
+- Business Intelligence
+
+### Programming & Data Science
+- Python
+- Pandas
+- NumPy (Learning)
+- Data Cleaning & Analysis
+
+### Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Pandas & NumPy
+- Data Science Fundamentals
+- Machine Learning
+
+---
+
+## 🎯 Career Goals
+
+My goal is to grow from Data Analytics toward Data Science and AI.
+
+I'm particularly interested in:
+- Artificial Intelligence
+- Machine Learning
+- Predictive Analytics
+- Data-driven Solutions
+
+---
+
+## 📂 Featured Projects
+
+Coming soon! I'm working on practical data analytics projects.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [My GitHub Profile](https://github.com/FarzadEsmaeilzadeh)
+
